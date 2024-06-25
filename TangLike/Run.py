@@ -168,7 +168,7 @@ def BANNER():
    _| |_  // | |, | | | | \ \._//_| |__/ | | |  | |`\ \| \__., 
 [bold white]  |_____| \\'-;__/[___||__].',__`|________|[___][__|  \_]'.__.' 
                          ( ( __))                              
-            Free Facebook Likes - Coded by kiplymacho""", width=66, style="bold dark_goldenrod"))
+            Free Facebook Likes - kiplymacho""", width=66, style="bold dark_goldenrod"))
     return ("0_0")
 
 class BYPASS:

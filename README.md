@@ -33,7 +33,7 @@ Unduh Script Dibawah Ini
 
 👇👇
 
-[![script TangLike](https://img.shields.io/badge/ScriptTangLike-%2B-yellow.svg?style=flat)](https://sfile.mobi/3IfzPTR59uv)
+[![script TangLike](https://img.shields.io/badge/ScriptTangLike-%2B-yellow.svg?style=flat)](https://sfile.mobi/5nFAPzwCJiG)
 
 
 # FREE FACEBOOK LIKES - WITH TERMUX
